@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path":"C:/Users/rogelio.villafuerte/Desktop/ProyectoAngular/AlumnosProject",
+			"name":"Alumnos Project",
+			"file_exclude_patterns":
+			[
+				"*.sublime-project",
+				"*.sublime-workspace",
+				"*.txt"
+			]
+		}
+	]
+}
